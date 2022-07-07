@@ -24,6 +24,7 @@ public class test_2 {
 
 
 		System.out.println("이름은 " + name + ", " + age + "살" + ", " + weight + "kg입니다.");
+		System.out.println("이름은 " + name + ", " + age + "살" + ", " + weight + "kg입니다.");
 				
 	}
 
